@@ -57,13 +57,10 @@ The analysis was performed in Google Colab using Python, while the final interac
 
 ## 🖼 Screenshots
 
-**Overview Page**  
 ![Overview Page](page01.png)  
 
-**Analysis Page**  
 ![Insight Page](page02.png)  
 
-**Insight Page**  
 ![Analysis Page](page03.png)  
 
 ---
